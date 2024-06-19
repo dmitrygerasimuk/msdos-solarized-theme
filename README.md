@@ -1,7 +1,7 @@
 
 # MS-DOS Solarized Theme
 
-Resident Solarized theme for MS-DOS based on old TSR skeleton code for loading high into umb if exists etc. Loads/unloads safely. ye olde code - Dark Fiber [NuKE]
+Resident Solarized theme for MS-DOS. Changes default palette and stays resident to restore palette during video mode changes. Originally based on old TSR skeleton code for loading high into umb if exists etc. Loads/unloads safely. ye olde code - Dark Fiber [NuKE]
 
 Converted to yasm
 
